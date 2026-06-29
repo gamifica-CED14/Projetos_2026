@@ -1,0 +1,36 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# VS generated
+.vs/
+.vscode/
+*.csproj
+*.sln
+
+# IDE generated
+*.userprefs
+*.user
+*.unityprefs
+
+# Unity generated files
+*.asset
+*.prefab
+*.mat
+*.fbx
+
+# OS generated
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Project specific
+*.log
+.env
